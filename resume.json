@@ -1,55 +1,42 @@
 {
   "basics": {
-    "name": "Ankit Taneja",
-    "label": "Freelance Salesforce Consultant",
+    "name": "Maria Higgins",
+    "label": "Freelance Salesforce Administrator Consultant",
     "picture": "/ankit.jpg",
-    "email": "info@ankittaneja.net",
-    "phone": "+49 151 6102 6618",
+    "email": "lucero.higgins@gmail.com",
+    "phone": "619-838-3807",
     "website": "http://forcepreneur.com",
-    "summary": "I am an experienced Salesforce Developer / Consultant. My goal is to help your business units (sales/service/marketing/etc.) achieve highest level of success by improving and automating your business process'. I produce high quality code / solutions for my clients that are both well performing and well tested. Lately, I work more in a Product Owner role where I am responsible for gathering requirements, designing soutions and ensuring timely delivery of the projects.",
+    "summary": "I am an experienced Salesforce Administrator / Consultant. My goal is to help your business units (sales/service/marketing/etc.) achieve highest level of success by improving and automating your business process'. I produce high quality code / solutions for my clients that are both well performing and well tested. Lately, I work more in a Product Owner role where I am responsible for gathering requirements, designing soutions and ensuring timely delivery of the projects.",
 
     "location": {
-      "address": "Kinzigstraße 41",
-      "postalCode": "10247",
-      "city": "Berlin",
-      "countryCode": "DE",
-      "region": "Berlin"
+      "address": "25701 La Cima",
+      "postalCode": "92677",
+      "city": "Laguna Niguel",
+      "countryCode": "USA",
+      "region": "California"
     },
     "profiles": [
       {
         "network": "Email",
-        "username": "NkitTaneja",
-        "url": "mailto:info@ankittaneja.net",
+        "username": "lucero.higgins",
+        "url": "mailto:lucero.higgins@gmail.com",
         "icon": "envelope",
         "package": "fas"
       },
       {
         "network": "LinkedIn",
-        "username": "NkitTaneja",
-        "url": "https://www.linkedin.com/in/ankit-taneja-68229128/",
+        "username": "MariaHiggins",
+        "url": "https://www.linkedin.com/in/mariahiggins1/",
         "icon": "linkedin",
-        "package": "fab"
-      },
-      {
-        "network": "Twitter",
-        "username": "NkitTaneja",
-        "url": "http://twitter.com/NkitTaneja",
-        "icon" : "twitter",
         "package": "fab"
       },
       {
         "network": "Github",
         "username": "ankittaneja",
-        "url": "https://github.com/ankittaneja",
+        "url": "https://github.com/lucero.higgins",
         "icon": "github",
         "package": "fab"
-      },
-      {
-        "network": "Xing",
-        "username": "NkitTaneja",
-        "url": "https://www.xing.com/profile/Ankit_Taneja/cv",
-        "icon": "xing",
-        "package": "fab"
+     
       }
     ]
   },
@@ -290,14 +277,14 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Business Fluency"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "CrossFit",
+      "keywords": ["CrossFit", "Fitness"]
     }
   ],
   "references": [
